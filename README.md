@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **mathit.j@ku.th**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: </h3> **mathit.j@ku.th**
 <p align="left">
 </p>
 
