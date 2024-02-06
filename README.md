@@ -11,4 +11,4 @@
 
 <h3 align="left" style="font-weight=bold">Connect with me: m.jantharith@gmail.com </h3>
 <p align="left"></p>
-<img src="https://cdn.discordapp.com/attachments/953603959162011651/1204525519551332372/Mathit_Jantharith_1.png)https://cdn.discordapp.com/attachments/953603959162011651/1204525519551332372/Mathit_Jantharith_1.png" alt="" width="500" height="600">
+<img src="https://media.discordapp.net/attachments/953603959162011651/1204525519551332372/Mathit_Jantharith_1.png?ex=65d50cce&is=65c297ce&hm=3b8b2e6a4793432c9b838e67f902311e169025ae0426656af15c0c1cc2adb1f7&=&format=webp&quality=lossless&width=425&height=601" alt="" width="500" height="600">
