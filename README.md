@@ -7,7 +7,7 @@
 
 - 🤝 This is my AI Project **AI**
 
-- 📫 How to reach me **mathit.j@ku.th**
+- 📫 How to reach me **m.jantharith@gmail.com**
 
 <h3 align="left" style="font-weight=bold">Connect with me: m.jantharith@gmail.com </h3>
 <p align="left">
