@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mathit Jantharith</h1>
 <h3 align="center">A Junior Developer in Thailand</h3>
 
-- 📱 This is my Flutter Project **Lot-talk**
+- 📱 This is my Flutter Project **Lot-talk [https://github.com/Stamp-Xzer/lottalk-Flutter](https://github.com/Stamp-Xzer/lottalk-Flutter)**
 
 - 🕸 This is my React Project **Ku cafe**
 
