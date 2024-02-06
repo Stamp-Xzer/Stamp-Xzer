@@ -3,7 +3,7 @@
 
 - 📱 This is my Flutter Project **Lot-talk [https://github.com/Stamp-Xzer/lottalk-Flutter](https://github.com/Stamp-Xzer/lottalk-Flutter)**
 
-- 🕸 This is my React Project **Ku cafe**
+- 🕸 This is my React Project **[Stamp-Xzer/Ku-Cafe-React](https://github.com/Stamp-Xzer/Ku-Cafe-ReactJS)**
 
 - 🤝 This is my AI Project **AI**
 
