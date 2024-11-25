@@ -13,4 +13,4 @@
 
 <h3 align="left" style="font-weight=bold">Connect with me: m.jantharith@gmail.com </h3>
 <h3 align="left" style="font-weight=bold">This my Resume </h3>
-<img src="<img src="https://img5.pic.in.th/file/secure-sv1/Mathit_Jantharith_1.png" alt="Mathit Jantharith 1" border="0">">
+<img src="<img src="https://img5.pic.in.th/file/secure-sv1/Mathit_Jantharith_1.png">
