@@ -12,5 +12,6 @@
 - 📫 How to reach me **m.jantharith@gmail.com**
 
 <h3 align="left" style="font-weight=bold">Connect with me: m.jantharith@gmail.com </h3>
-<h3 align="left" style="font-weight=bold">This my Resume </h3>
-<img src="https://img5.pic.in.th/file/secure-sv1/Mathit_Jantharith_1.png">
+<h3 align="left" style="font-weight=bold">This my CV </h3>
+<img src="https://img5.pic.in.th/file/secure-sv1/13a7338a1650c42e1.jpg">
+<img src="https://img2.pic.in.th/pic/24ecbd2728cd9083b.jpg">
