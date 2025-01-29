@@ -7,8 +7,6 @@
 
 - 🕸 This is my SA Website Project Client : **[Stamp-Xzer/Project-Sa-ReactJS](https://github.com/Stamp-Xzer/Project-Sa-ReactJS.git)**  Server : **[Stamp-Xzer/Server-ReactJS-SAProject](https://github.com/Stamp-Xzer/Server-ReactJS-SAProject.git)**
 
-- 🤝 This is my AI Project **AI**
-
 - 📫 How to reach me **m.jantharith@gmail.com**
 
 <h3 align="left" style="font-weight=bold">Connect with me: m.jantharith@gmail.com </h3>
